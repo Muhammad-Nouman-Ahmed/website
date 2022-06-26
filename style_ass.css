@@ -1,0 +1,223 @@
+body {
+    margin: 0px;
+    background-color: white;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h5 {
+    margin: 0px;
+}
+
+.navbar {
+    width: 100%;
+    display: flex;
+}
+
+.navbar1 {
+    width: 100%;
+    display: flex;
+}
+
+ol {
+    padding: 10px;
+    margin: 0px;
+    overflow: hidden;
+}
+
+.navbar ol li {
+    float: right;
+    padding: 10px;
+    list-style-type: none;
+}
+
+.navbar1 ol li {
+    float: right;
+    padding: 10px;
+    list-style-type: none;
+}
+
+.navbar ol li a {
+    text-decoration: none;
+    color: black;
+}
+
+.navbar1 ol li a {
+    text-decoration: none;
+    color: black;
+}
+
+.button {
+    margin-top: -10px;
+    background-color: orange;
+    border: none;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+}
+
+li:hover {
+    background-color: white !important;
+    transition: 0.5s;
+}
+
+li a:hover {
+    color: orange !important;
+}
+
+.b {
+    width: 40%;
+    border: none;
+    background-color: white;
+    display: inline;
+    border-bottom: 3px solid orange;
+}
+
+.bg-g {
+    background-color: white;
+    color: black;
+}
+
+.heading-1 {
+    font-size: 20px;
+    text-align: center;
+    text-decoration: underline 3px orange solid;
+}
+
+.box {
+    width: 20%;
+    padding: 20px;
+    display: inline-block;
+}
+
+.boder {
+    border: 1px solid grey;
+}
+
+.round {
+    border-radius: 10px;
+}
+
+.div-a {
+    text-align: center;
+}
+
+.pic {
+    width: 100%;
+}
+
+.pic1 {
+    width: 70%;
+}
+
+.pic2 {
+    width: 42%;
+}
+
+.pic3 {
+    width: 12%;
+}
+
+.shadow {
+    border-radius: 1px;
+    box-shadow: 0px 0px 0px 2px rgba(0, 0, 0, 0.3);
+}
+
+.mt {
+    margin-top: 15px;
+}
+
+.mt-h {
+    margin-top: 30px;
+}
+
+.d-width {
+    width: 20%;
+}
+
+.d-width1 {
+    width: 80%;
+}
+
+.d-width2 {
+    width: 50%;
+}
+
+.d-width3 {
+    width: 30%;
+}
+
+.d-width4 {
+    width: 100%;
+    height: 100%;
+}
+
+.f-l {
+    float: left;
+}
+
+.pd {
+    padding-top: 80px;
+}
+
+.pad {
+    padding-right: 100px;
+    padding-left: 100px;
+    color: grey;
+}
+
+.x-s {
+    font-size: 15px;
+    color: orange;
+}
+
+.h-s {
+    font-size: 30px;
+    font-weight: bold;
+    margin: 0px;
+}
+
+.m-font {
+    font-size: 12px;
+    color: grey;
+}
+
+.set {
+    width: 80px;
+    height: 30px
+}
+
+.x-s2 {
+    width: 20%;
+    background-color: bisque;
+    float: right;
+}
+
+.li-width {
+    float: right;
+    width: 50%;
+}
+
+.li-width1 {
+    float: right;
+    width: 10%;
+}
+
+.fav-color {
+    color: darkorange;
+}
+
+.fav-color1 {
+    background-color: darkorange;
+}
+
+.b-color {
+    background-color: bisque;
+}
+
+.disp {
+    display: flex;
+}
